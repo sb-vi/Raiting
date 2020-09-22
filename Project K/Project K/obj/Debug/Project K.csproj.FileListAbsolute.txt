@@ -1,0 +1,12 @@
+D:\ZSBVI\Project K\Project K\bin\Debug\Project K.exe
+D:\ZSBVI\Project K\Project K\bin\Debug\Project K.pdb
+D:\ZSBVI\Project K\Project K\obj\Debug\Project_K.Properties.Resources.resources
+D:\ZSBVI\Project K\Project K\obj\Debug\Project K.csproj.GenerateResource.cache
+D:\ZSBVI\Project K\Project K\obj\Debug\Project K.csproj.CoreCompileInputs.cache
+D:\ZSBVI\Project K\Project K\obj\Debug\Project K.exe
+D:\ZSBVI\Project K\Project K\obj\Debug\Project K.pdb
+D:\ZSBVI\Project K\Project K\obj\Debug\Project_K.FormPupil.resources
+D:\ZSBVI\Project K\Project K\obj\Debug\Project_K.FormLogin.resources
+D:\ZSBVI\Project K\Project K\bin\Debug\Project K.exe.config
+D:\ZSBVI\Project K\Project K\obj\Debug\Project_K.FormTeacher.resources
+D:\ZSBVI\Project K\Project K\obj\Debug\Project K.csprojAssemblyReference.cache
